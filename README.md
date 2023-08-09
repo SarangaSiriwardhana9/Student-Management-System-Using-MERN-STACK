@@ -1,3 +1,7 @@
+![4](https://github.com/SarangaSiriwardhana9/Student-Management-System-Using-MERN-STACK/assets/99233703/6992ed49-6a9f-44ed-a71b-49fae1569cf0)
+![Uploading 3.PNG…]()
+![Uploading 2.PNG…]()
+![Uploading 1.PNG…]()
 # Student Management System - MERN Project
 
 Welcome to the Student Management System repository! This project is built using the MERN (MongoDB, Express, React, Node.js) stack and provides a comprehensive solution for managing student records.
