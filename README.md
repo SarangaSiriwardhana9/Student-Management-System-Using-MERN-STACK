@@ -1,23 +1,23 @@
-##Student Management System
+##Student Management System                                                                                                                            
 This is a full-stack web application built on the MERN (MongoDB, Express, React, Node.js) stack, designed to manage student information. It includes basic CRUD (Create, Read, Update, Delete) operations, search and filtering functionality, and the ability to upload student images. With this application, you can easily add, edit, and delete student records, search for students based on various criteria, and filter the results. Additionally, the application includes image uploading functionality, allowing you to upload student photos and associate them with their respective records.
 
-Table of Contents
-Features
-Technologies
-Installation
-Usage
-Contributing
-License
-Features
+Table of Contents                                                                                                                                      
+Features                                                                                                                                              
+Technologies                                                                                                                                          
+Installation                                                                                                                                          
+Usage                                                                                                                                                  
+Contributing                                                                                                                                           
+License                                                                                                                                                
+Features                                                                                                                                              
 CRUD Operations: The application allows you to perform create, read, update, and delete operations on student records.
 Search and Filtering: You can search for students based on various criteria, such as name, ID, or grade level, and filter the results.
 Image Uploading: The application includes image uploading functionality, allowing you to upload student photos and associate them with their respective records.
 Responsive Design: The application is built with a responsive design, ensuring that it works well across devices of different sizes.
 Technologies
-The application is built using the following technologies:
-
-Backend: Node.js, Express.js, MongoDB
-Frontend: React.js, Redux.js, Bootstrap
+The application is built using the following technologies:                                                                                              
+                                                                                                                                                    
+Backend: Node.js, Express.js, MongoDB                                                                                                                  
+Frontend: React.js, Redux.js, Bootstrap                                                                                                                
 Image Upload: Multer.js
 Deployment: Heroku
 Installation
