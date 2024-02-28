@@ -5,7 +5,7 @@ Welcome to the Student Management System repository! This project is built using
 
 ## Features
 
-- Create, Read, Update, and Delete (CRUD) operations for student records.
+- Create, Read, Update, and Delete (CRUD) operations for student records
 - Search functionality to easily find specific student information.
 - Filtering options for better organization of student data.
 - Image uploading feature to associate student profiles with pictures.
